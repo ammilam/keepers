@@ -1,4 +1,8 @@
 #! /bin/bash -e
+# Author - Andrew Milam
+# This procedurally generates kuberentes resource definitions from notifieres in grafana to be checked in as code and maintained by flux
+# Enabled monitoring as code
+
 ENV=
 URL=
 API_KEY=$1
