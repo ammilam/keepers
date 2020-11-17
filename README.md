@@ -1,1 +1,3 @@
 # keepers
+This repo contains some scripts and other random stuff I have created...
+
