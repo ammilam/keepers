@@ -1,5 +1,5 @@
 #! /bin/bash -e
-# Author Andrew Milam
+# Author - Andrew Milam
 # This will scale resources across an entire k8s cluster up/or down
 
 
