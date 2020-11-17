@@ -1,4 +1,7 @@
 #! /bin/bash -e
+# Author - Andrew Milam
+# This programatically generates k8s resource definitons from a grafana dashboard
+# Enables monitoring as code
 
 # sets env
 ENV=
